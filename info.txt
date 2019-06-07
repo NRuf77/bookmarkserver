@@ -1,0 +1,8 @@
+App URL
+https://my-123-bookmarkserver.herokuapp.com/
+
+App git repo
+https://git.heroku.com/my-123-bookmarkserver.git
+
+App dashboard
+https://dashboard.heroku.com/apps/my-123-bookmarkserver/logs
